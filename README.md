@@ -3,7 +3,7 @@ murach's Python programming
 -
 Authors: Michael Urban, Joel Murach 
 -
-Lessons
+Content
 -
 | Chapter        | Topics      |
 | ------------- | -------------|
